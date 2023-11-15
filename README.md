@@ -1,5 +1,5 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e28hdsp6575ac6lf?svg=true)](https://ci.appveyor.com/project/juaner/ahj-animation)
-https://junaer.github.io/AHJ-Animation/
+[![Build status](https://ci.appveyor.com/api/projects/status/e28hdsp6575ac6lf?svg=true)](https://ci.appveyor.com/project/finchik/ahj-animation)
+https://finchik.github.io/AHJ-Animation/
 
 # Домашнее задание к занятию "9. Анимации и CSS"
 
