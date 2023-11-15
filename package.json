@@ -14,8 +14,8 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "repository": "https://github.com/junaer/AHJ-Animation.git",
-  "author": "junaer",
+  "repository": "https://github.com/finchik/AHJ-Animation.git",
+  "author": "fench",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.18.10",
